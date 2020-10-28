@@ -3,5 +3,10 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
-    <color name="mirojo">#F06292</color>
+
+    <color name="ColorBack">#000000</color>
+    <color name="ColorRed">#950202</color>
+    <color name="ColorGrey">#1C1C1C</color>
+    <color name="colorCyan">#33808080</color>
+
 </resources>
